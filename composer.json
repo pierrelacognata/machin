@@ -1,0 +1,14 @@
+{
+    "name": "pierrelacognata/machin",
+    "description": "a dummy package",
+    "type": "project",
+    "license": "Unlicense",
+    "authors": [
+        {
+            "name": "Pierre Lacognata",
+            "email": "pierre.lacognata@mail-esd.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
